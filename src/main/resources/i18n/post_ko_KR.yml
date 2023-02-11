@@ -1,0 +1,9 @@
+success:
+  code: "0"
+  msg: "요청에 성공하였습니다."
+fail:
+  code: "-1"
+  msg: "요청에 실패하였습니다."
+notFound:
+  code: "-2"
+  msg: "찾을 수 없습니다."
